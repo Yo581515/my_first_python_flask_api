@@ -43,7 +43,6 @@ def get_drink(id):
     print(type(drink))
     print()
     print(drink)
-    print()
     return drink.to_dict()
 
 
